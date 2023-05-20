@@ -187,13 +187,21 @@
 	}
 	.atf-themes-btn{
 		font-size: 15px;
-		padding: 20px 30px;
 		display: flex;
 		flex-direction: column;
 		margin-bottom: 20px;
 		width: 200px;
 		margin-left: 25%;
 		
+	}
+	.kkll {
+		margin-left: 0%;
+		display: inline-block;
+		flex-direction: none;
+		padding: 14px 23px;
+		text-align: center;
+		justify-content:center;
+		padding-left: 35%;
 	}
 }
 
