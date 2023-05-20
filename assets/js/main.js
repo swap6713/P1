@@ -104,17 +104,15 @@
 		//**===================Typed-word ===================**//	
 		
 			var typed = new Typed('.typed-word', {
-				strings: ["Stock Broker.","Gamer."," Streamer."],
+				strings: ["Web Designer.","Web Developer."," Video Editor."],
 				typeSpeed: 40,
-				backSpeed: 40,
-				backDelay: 2000,
-				startDelay: 1500,
+				backSpeed: 80,
+				backDelay: 1000,
+				startDelay: 1000,
 				loop: true,
 				showCursor: true
 			});
 			
-		
-		
 			
 			 /* WOW Scroll Spy
 			========================================================*/
